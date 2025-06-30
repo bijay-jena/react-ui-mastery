@@ -1,0 +1,11 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 8px;
+}
+
+:root {
+  --primary: #3498db;
+  --secondary: #2ecc71;
+}
